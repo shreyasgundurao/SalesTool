@@ -18,6 +18,7 @@ public class Main {
 		SalesData salesData = new SalesData();
 		salesData.display();
 		
+		System.out.println("Commit this change to Git");
 		System.out.println("Exiting now. Thanks!");
 
 	}
